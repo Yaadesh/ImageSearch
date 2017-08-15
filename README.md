@@ -1,6 +1,8 @@
 # ImageSearch
 Android App to search and view images
 
+Uses Bing AutoSuggest Api and Bing Image Api
+
 Features:
 
 --> Caches images with Glide

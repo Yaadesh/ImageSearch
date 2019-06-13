@@ -212,7 +212,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public Map<String, String> getHeaders() throws AuthFailureError {
                     Map<String, String> headers = new HashMap<String, String>();
-                    headers.put("Ocp-Apim-Subscription-Key", "b06765cbec71426b8d8088befc24fa1d");
+                    headers.put("Ocp-Apim-Subscription-Key", "b06765cbec71426b8d9099befc24fa1d");
                     headers.put("User-Agent", "");
                     headers.put("X-Search-ClientIP", "999.999.999.999");
                     headers.put("Host", "api.cognitive.microsoft.com ");
